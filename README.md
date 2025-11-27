@@ -19,3 +19,4 @@
 - **CSS (Flexbox + responsive layout)**
 
 ## ссылочка на сайтик
+**(https://maksimsuperstarr.github.io/react-1st-test/)**
